@@ -1,5 +1,6 @@
-#Wed Jun 30 20:52:33 ART 2010
+#Wed Jun 30 20:54:28 ART 2010
 eclipse.preferences.version=1
 encoding//src/conexion/__init__.py=utf-8
+encoding//src/conexion/papylib/msnp/challenge.py=utf-8
 encoding//src/gui/__init__.py=utf-8
 encoding//src/pygmsn.py=utf-8
